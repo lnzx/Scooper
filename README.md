@@ -9,3 +9,4 @@ Scoop GUI
 . 搜索
 . 卸载
 
+![avatar](scooper.jpg)

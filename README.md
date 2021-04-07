@@ -11,4 +11,4 @@ windows 包管理软件
 . 搜索
 . 卸载
 
-![avatar](scooper.jpg)
+![avatar](scoop.jpg)
